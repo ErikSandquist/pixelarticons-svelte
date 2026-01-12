@@ -1,0 +1,20 @@
+<script lang="ts">
+  interface Props {
+    size?: number;
+    color?: string;
+    class?: string;
+  }
+
+  let { size = 24, color = 'currentColor', class: className, ...rest }: Props & Record<string, any> = $props();
+</script>
+
+<svg
+  width={size}
+  height={size}
+  style="color: {color}"
+  class={className}
+  fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+  {...rest}
+>
+  <path d="M20 6V4H4v2h16zm0 14v-2H4v2h16zM17 8v8h-2V8h2zm-8 6v-4h6V8H7v8h8v-2H9z" fill="currentColor"/>
+</svg>
