@@ -1,1 +1,1 @@
-export { DuplicateAlt as default } from "./";
+export { DuplicateAlt as default } from './';

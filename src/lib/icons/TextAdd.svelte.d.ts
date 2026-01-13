@@ -1,1 +1,1 @@
-export { TextAdd as default } from "./";
+export { TextAdd as default } from './';

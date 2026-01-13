@@ -1,1 +1,1 @@
-export { CloudDone as default } from "./";
+export { CloudDone as default } from './';

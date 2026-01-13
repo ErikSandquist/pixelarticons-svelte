@@ -1,1 +1,1 @@
-export { DeviceWatch as default } from "./";
+export { DeviceWatch as default } from './';

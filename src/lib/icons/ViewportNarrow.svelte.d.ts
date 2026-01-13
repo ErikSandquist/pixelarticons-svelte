@@ -1,1 +1,1 @@
-export { ViewportNarrow as default } from "./";
+export { ViewportNarrow as default } from './';

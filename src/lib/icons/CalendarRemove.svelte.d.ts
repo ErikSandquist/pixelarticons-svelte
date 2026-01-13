@@ -1,1 +1,1 @@
-export { CalendarRemove as default } from "./";
+export { CalendarRemove as default } from './';

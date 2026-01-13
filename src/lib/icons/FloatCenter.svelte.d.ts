@@ -1,1 +1,1 @@
-export { FloatCenter as default } from "./";
+export { FloatCenter as default } from './';

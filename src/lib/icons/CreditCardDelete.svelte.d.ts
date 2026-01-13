@@ -1,1 +1,1 @@
-export { CreditCardDelete as default } from "./";
+export { CreditCardDelete as default } from './';

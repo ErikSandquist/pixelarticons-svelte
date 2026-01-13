@@ -1,1 +1,1 @@
-export { CloudMoon as default } from "./";
+export { CloudMoon as default } from './';

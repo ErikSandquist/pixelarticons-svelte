@@ -1,1 +1,1 @@
-export { Membercard as default } from "./";
+export { Membercard as default } from './';

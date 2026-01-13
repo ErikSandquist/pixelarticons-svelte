@@ -1,1 +1,1 @@
-export { FrameAdd as default } from "./";
+export { FrameAdd as default } from './';

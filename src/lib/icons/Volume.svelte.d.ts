@@ -1,1 +1,1 @@
-export { Volume as default } from "./";
+export { Volume as default } from './';

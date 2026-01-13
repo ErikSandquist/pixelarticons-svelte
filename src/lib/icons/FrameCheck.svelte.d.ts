@@ -1,1 +1,1 @@
-export { FrameCheck as default } from "./";
+export { FrameCheck as default } from './';

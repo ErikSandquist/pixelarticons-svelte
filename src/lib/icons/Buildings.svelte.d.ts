@@ -1,1 +1,1 @@
-export { Buildings as default } from "./";
+export { Buildings as default } from './';

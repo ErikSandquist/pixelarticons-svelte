@@ -1,1 +1,1 @@
-export { HumanHeight as default } from "./";
+export { HumanHeight as default } from './';

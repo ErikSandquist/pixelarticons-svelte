@@ -1,1 +1,1 @@
-export { Subtitles as default } from "./";
+export { Subtitles as default } from './';

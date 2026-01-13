@@ -1,1 +1,1 @@
-export { DropArea as default } from "./";
+export { DropArea as default } from './';

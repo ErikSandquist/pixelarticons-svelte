@@ -1,1 +1,1 @@
-export { HumanRun as default } from "./";
+export { HumanRun as default } from './';

@@ -1,1 +1,1 @@
-export { SunAlt as default } from "./";
+export { SunAlt as default } from './';

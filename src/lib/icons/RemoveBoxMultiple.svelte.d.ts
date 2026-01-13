@@ -1,1 +1,1 @@
-export { RemoveBoxMultiple as default } from "./";
+export { RemoveBoxMultiple as default } from './';

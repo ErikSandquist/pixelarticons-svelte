@@ -1,1 +1,1 @@
-export { CloudSun as default } from "./";
+export { CloudSun as default } from './';

@@ -1,1 +1,1 @@
-export { Gamepad as default } from "./";
+export { Gamepad as default } from './';

@@ -1,1 +1,1 @@
-export { ScrollVertical as default } from "./";
+export { ScrollVertical as default } from './';

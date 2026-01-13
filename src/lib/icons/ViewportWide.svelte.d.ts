@@ -1,1 +1,1 @@
-export { ViewportWide as default } from "./";
+export { ViewportWide as default } from './';

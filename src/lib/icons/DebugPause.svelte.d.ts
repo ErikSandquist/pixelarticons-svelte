@@ -1,1 +1,1 @@
-export { DebugPause as default } from "./";
+export { DebugPause as default } from './';

@@ -1,1 +1,1 @@
-export { ArrowDownBox as default } from "./";
+export { ArrowDownBox as default } from './';

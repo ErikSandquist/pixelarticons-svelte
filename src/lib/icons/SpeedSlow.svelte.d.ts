@@ -1,1 +1,1 @@
-export { SpeedSlow as default } from "./";
+export { SpeedSlow as default } from './';

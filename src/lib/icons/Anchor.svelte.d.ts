@@ -1,1 +1,1 @@
-export { Anchor as default } from "./";
+export { Anchor as default } from './';

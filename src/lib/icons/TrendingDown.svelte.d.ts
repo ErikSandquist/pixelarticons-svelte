@@ -1,1 +1,1 @@
-export { TrendingDown as default } from "./";
+export { TrendingDown as default } from './';

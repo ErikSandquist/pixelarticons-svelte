@@ -1,1 +1,1 @@
-export { ImageArrowRight as default } from "./";
+export { ImageArrowRight as default } from './';

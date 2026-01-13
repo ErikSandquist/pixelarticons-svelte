@@ -1,1 +1,1 @@
-export { MoodHappy as default } from "./";
+export { MoodHappy as default } from './';

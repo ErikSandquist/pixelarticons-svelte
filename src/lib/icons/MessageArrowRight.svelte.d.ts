@@ -1,1 +1,1 @@
-export { MessageArrowRight as default } from "./";
+export { MessageArrowRight as default } from './';

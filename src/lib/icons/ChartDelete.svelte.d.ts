@@ -1,1 +1,1 @@
-export { ChartDelete as default } from "./";
+export { ChartDelete as default } from './';

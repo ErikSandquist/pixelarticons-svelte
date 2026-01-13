@@ -1,1 +1,1 @@
-export { SpeedMedium as default } from "./";
+export { SpeedMedium as default } from './';

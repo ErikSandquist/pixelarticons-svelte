@@ -1,1 +1,1 @@
-export { GitPullRequest as default } from "./";
+export { GitPullRequest as default } from './';

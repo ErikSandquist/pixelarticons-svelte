@@ -1,1 +1,1 @@
-export { RadioOn as default } from "./";
+export { RadioOn as default } from './';

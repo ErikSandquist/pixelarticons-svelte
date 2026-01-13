@@ -1,1 +1,1 @@
-export { ExternalLink as default } from "./";
+export { ExternalLink as default } from './';

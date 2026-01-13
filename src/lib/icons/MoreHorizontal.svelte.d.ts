@@ -1,1 +1,1 @@
-export { MoreHorizontal as default } from "./";
+export { MoreHorizontal as default } from './';

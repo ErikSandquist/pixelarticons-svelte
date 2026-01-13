@@ -1,20 +1,31 @@
 <script lang="ts">
-  interface Props {
-    size?: number;
-    color?: string;
-    class?: string;
-  }
+	interface Props {
+		size?: number;
+		color?: string;
+		class?: string;
+	}
 
-  let { size = 24, color = 'currentColor', class: className, ...rest }: Props & Record<string, any> = $props();
+	let {
+		size = 24,
+		color = 'currentColor',
+		class: className,
+		...rest
+	}: Props & Record<string, any> = $props();
 </script>
 
 <svg
-  width={size}
-  height={size}
-  style="color: {color}"
-  class={className}
-  fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
-  {...rest}
+	width={size}
+	height={size}
+	style="color: {color}"
+	class={className}
+	shape-rendering="crispEdges"
+	fill="none"
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 24 24"
+	{...rest}
 >
-  <path d="M5 3H3v2h2V3zm4 0H7v2h2V3zM7 19h2v2H7v-2zM5 7H3v2h2V7zm14 0h2v2h-2V7zM5 11H3v2h2v-2zm14 0h2v2h-2v-2zM5 15H3v2h2v-2zm14 0h2v2h-2v-2zM5 19H3v2h2v-2zm6-16h2v2h-2V3zm2 16h-2v2h2v-2zm2-16h2v2h-2V3zm2 16h-2v2h2v-2zm2-16h2v2h-2V3zm2 16h-2v2h2v-2z" fill="currentColor"/>
+	<path
+		d="M5 3H3v2h2V3zm4 0H7v2h2V3zM7 19h2v2H7v-2zM5 7H3v2h2V7zm14 0h2v2h-2V7zM5 11H3v2h2v-2zm14 0h2v2h-2v-2zM5 15H3v2h2v-2zm14 0h2v2h-2v-2zM5 19H3v2h2v-2zm6-16h2v2h-2V3zm2 16h-2v2h2v-2zm2-16h2v2h-2V3zm2 16h-2v2h2v-2zm2-16h2v2h-2V3zm2 16h-2v2h2v-2z"
+		fill="currentColor"
+	/>
 </svg>

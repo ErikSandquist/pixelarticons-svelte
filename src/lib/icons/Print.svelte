@@ -1,20 +1,31 @@
 <script lang="ts">
-  interface Props {
-    size?: number;
-    color?: string;
-    class?: string;
-  }
+	interface Props {
+		size?: number;
+		color?: string;
+		class?: string;
+	}
 
-  let { size = 24, color = 'currentColor', class: className, ...rest }: Props & Record<string, any> = $props();
+	let {
+		size = 24,
+		color = 'currentColor',
+		class: className,
+		...rest
+	}: Props & Record<string, any> = $props();
 </script>
 
 <svg
-  width={size}
-  height={size}
-  style="color: {color}"
-  class={className}
-  fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
-  {...rest}
+	width={size}
+	height={size}
+	style="color: {color}"
+	class={className}
+	shape-rendering="crispEdges"
+	fill="none"
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 24 24"
+	{...rest}
 >
-  <path d="M6 2h12v6h4v10h-4v4H6v-4H2V8h4V2zm2 6h8V4H8v4zm-2 8v-4h12v4h2v-6H4v6h2zm2-2v6h8v-6H8z" fill="currentColor"/>
+	<path
+		d="M6 2h12v6h4v10h-4v4H6v-4H2V8h4V2zm2 6h8V4H8v4zm-2 8v-4h12v4h2v-6H4v6h2zm2-2v6h8v-6H8z"
+		fill="currentColor"
+	/>
 </svg>

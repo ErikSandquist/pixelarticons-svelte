@@ -1,1 +1,1 @@
-export { CheckboxOn as default } from "./";
+export { CheckboxOn as default } from './';

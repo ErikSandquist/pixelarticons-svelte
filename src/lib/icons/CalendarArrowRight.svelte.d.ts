@@ -1,1 +1,1 @@
-export { CalendarArrowRight as default } from "./";
+export { CalendarArrowRight as default } from './';

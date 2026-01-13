@@ -1,1 +1,1 @@
-export { CheckDouble as default } from "./";
+export { CheckDouble as default } from './';

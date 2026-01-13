@@ -16,7 +16,7 @@ bun add pixelarticons-svelte
 
 ```svelte
 <script>
-  import { Alert, Home } from 'pixelarticons-svelte';
+	import { Alert, Home } from 'pixelarticons-svelte';
 </script>
 
 <Alert size={24} color="#ff0000" />

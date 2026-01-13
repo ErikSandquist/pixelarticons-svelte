@@ -1,1 +1,1 @@
-export { SpeedFast as default } from "./";
+export { SpeedFast as default } from './';

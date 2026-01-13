@@ -1,1 +1,1 @@
-export { CardText as default } from "./";
+export { CardText as default } from './';

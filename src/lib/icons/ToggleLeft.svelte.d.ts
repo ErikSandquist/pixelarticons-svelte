@@ -1,1 +1,1 @@
-export { ToggleLeft as default } from "./";
+export { ToggleLeft as default } from './';

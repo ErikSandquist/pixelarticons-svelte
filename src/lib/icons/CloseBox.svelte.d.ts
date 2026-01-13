@@ -1,1 +1,1 @@
-export { CloseBox as default } from "./";
+export { CloseBox as default } from './';

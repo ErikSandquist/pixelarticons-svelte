@@ -1,1 +1,1 @@
-export { Draft as default } from "./";
+export { Draft as default } from './';

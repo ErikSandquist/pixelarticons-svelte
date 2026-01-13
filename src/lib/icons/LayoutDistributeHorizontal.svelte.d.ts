@@ -1,1 +1,1 @@
-export { LayoutDistributeHorizontal as default } from "./";
+export { LayoutDistributeHorizontal as default } from './';

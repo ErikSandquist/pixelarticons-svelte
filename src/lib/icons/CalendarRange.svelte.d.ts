@@ -1,1 +1,1 @@
-export { CalendarRange as default } from "./";
+export { CalendarRange as default } from './';

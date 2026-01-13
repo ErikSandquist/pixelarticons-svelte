@@ -1,1 +1,1 @@
-export { BriefcaseDownload as default } from "./";
+export { BriefcaseDownload as default } from './';

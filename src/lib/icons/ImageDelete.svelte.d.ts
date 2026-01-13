@@ -1,1 +1,1 @@
-export { ImageDelete as default } from "./";
+export { ImageDelete as default } from './';

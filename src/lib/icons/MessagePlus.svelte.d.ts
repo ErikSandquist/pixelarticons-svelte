@@ -1,1 +1,1 @@
-export { MessagePlus as default } from "./";
+export { MessagePlus as default } from './';

@@ -1,1 +1,1 @@
-export { MessageClock as default } from "./";
+export { MessageClock as default } from './';

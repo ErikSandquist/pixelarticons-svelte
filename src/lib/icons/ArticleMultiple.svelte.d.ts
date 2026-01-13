@@ -1,1 +1,1 @@
-export { ArticleMultiple as default } from "./";
+export { ArticleMultiple as default } from './';

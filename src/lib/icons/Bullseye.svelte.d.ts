@@ -1,1 +1,1 @@
-export { Bullseye as default } from "./";
+export { Bullseye as default } from './';

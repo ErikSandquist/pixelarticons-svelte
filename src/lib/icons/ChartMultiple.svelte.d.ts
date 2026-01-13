@@ -1,1 +1,1 @@
-export { ChartMultiple as default } from "./";
+export { ChartMultiple as default } from './';

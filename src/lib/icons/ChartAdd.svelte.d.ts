@@ -1,1 +1,1 @@
-export { ChartAdd as default } from "./";
+export { ChartAdd as default } from './';

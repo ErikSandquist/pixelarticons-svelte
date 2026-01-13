@@ -1,1 +1,1 @@
-export { FileFlash as default } from "./";
+export { FileFlash as default } from './';

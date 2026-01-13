@@ -1,1 +1,1 @@
-export { NotesDelete as default } from "./";
+export { NotesDelete as default } from './';

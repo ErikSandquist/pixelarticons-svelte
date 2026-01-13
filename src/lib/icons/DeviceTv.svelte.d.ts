@@ -1,1 +1,1 @@
-export { DeviceTv as default } from "./";
+export { DeviceTv as default } from './';

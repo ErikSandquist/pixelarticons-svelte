@@ -1,1 +1,1 @@
-export { Android as default } from "./";
+export { Android as default } from './';

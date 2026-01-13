@@ -1,1 +1,1 @@
-export { Spotlight as default } from "./";
+export { Spotlight as default } from './';

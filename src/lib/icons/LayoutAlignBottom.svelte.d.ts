@@ -1,1 +1,1 @@
-export { LayoutAlignBottom as default } from "./";
+export { LayoutAlignBottom as default } from './';

@@ -1,1 +1,1 @@
-export { LayoutFooter as default } from "./";
+export { LayoutFooter as default } from './';

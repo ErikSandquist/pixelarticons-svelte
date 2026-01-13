@@ -1,1 +1,1 @@
-export { Bug as default } from "./";
+export { Bug as default } from './';

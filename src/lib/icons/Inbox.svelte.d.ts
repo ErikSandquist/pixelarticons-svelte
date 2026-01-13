@@ -1,1 +1,1 @@
-export { Inbox as default } from "./";
+export { Inbox as default } from './';

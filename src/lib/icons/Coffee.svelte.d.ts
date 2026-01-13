@@ -1,1 +1,1 @@
-export { Coffee as default } from "./";
+export { Coffee as default } from './';

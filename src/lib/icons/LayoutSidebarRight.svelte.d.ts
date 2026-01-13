@@ -1,1 +1,1 @@
-export { LayoutSidebarRight as default } from "./";
+export { LayoutSidebarRight as default } from './';

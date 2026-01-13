@@ -1,1 +1,1 @@
-export { UserX as default } from "./";
+export { UserX as default } from './';

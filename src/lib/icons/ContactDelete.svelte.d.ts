@@ -1,1 +1,1 @@
-export { ContactDelete as default } from "./";
+export { ContactDelete as default } from './';

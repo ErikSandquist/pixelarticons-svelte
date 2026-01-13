@@ -1,1 +1,1 @@
-export { MailCheck as default } from "./";
+export { MailCheck as default } from './';

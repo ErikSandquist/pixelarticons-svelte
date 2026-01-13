@@ -1,1 +1,1 @@
-export { Suitcase as default } from "./";
+export { Suitcase as default } from './';

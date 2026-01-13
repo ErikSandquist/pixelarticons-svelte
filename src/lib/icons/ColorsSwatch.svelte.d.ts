@@ -1,1 +1,1 @@
-export { ColorsSwatch as default } from "./";
+export { ColorsSwatch as default } from './';

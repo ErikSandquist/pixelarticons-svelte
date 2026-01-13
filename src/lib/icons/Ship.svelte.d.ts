@@ -1,1 +1,1 @@
-export { Ship as default } from "./";
+export { Ship as default } from './';

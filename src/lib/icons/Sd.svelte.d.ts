@@ -1,1 +1,1 @@
-export { Sd as default } from "./";
+export { Sd as default } from './';

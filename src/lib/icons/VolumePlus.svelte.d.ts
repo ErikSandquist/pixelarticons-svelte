@@ -1,1 +1,1 @@
-export { VolumePlus as default } from "./";
+export { VolumePlus as default } from './';

@@ -1,1 +1,1 @@
-export { AddRow as default } from "./";
+export { AddRow as default } from './';

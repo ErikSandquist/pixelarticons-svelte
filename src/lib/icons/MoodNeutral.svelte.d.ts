@@ -1,1 +1,1 @@
-export { MoodNeutral as default } from "./";
+export { MoodNeutral as default } from './';

@@ -1,1 +1,1 @@
-export { FileOff as default } from "./";
+export { FileOff as default } from './';

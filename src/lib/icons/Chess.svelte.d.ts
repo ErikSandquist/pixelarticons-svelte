@@ -1,1 +1,1 @@
-export { Chess as default } from "./";
+export { Chess as default } from './';

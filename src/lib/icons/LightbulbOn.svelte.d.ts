@@ -1,1 +1,1 @@
-export { LightbulbOn as default } from "./";
+export { LightbulbOn as default } from './';

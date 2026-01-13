@@ -1,1 +1,1 @@
-export { Article as default } from "./";
+export { Article as default } from './';

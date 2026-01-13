@@ -1,1 +1,1 @@
-export { MessageProcessing as default } from "./";
+export { MessageProcessing as default } from './';

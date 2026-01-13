@@ -1,1 +1,1 @@
-export { GitMerge as default } from "./";
+export { GitMerge as default } from './';

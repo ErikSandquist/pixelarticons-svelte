@@ -1,1 +1,1 @@
-export { FloatLeft as default } from "./";
+export { FloatLeft as default } from './';

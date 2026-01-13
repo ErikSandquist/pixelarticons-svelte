@@ -1,1 +1,1 @@
-export { CoffeeAlt as default } from "./";
+export { CoffeeAlt as default } from './';

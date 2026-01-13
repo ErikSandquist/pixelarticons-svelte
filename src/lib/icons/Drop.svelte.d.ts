@@ -1,1 +1,1 @@
-export { Drop as default } from "./";
+export { Drop as default } from './';

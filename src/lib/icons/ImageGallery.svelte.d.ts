@@ -1,1 +1,1 @@
-export { ImageGallery as default } from "./";
+export { ImageGallery as default } from './';

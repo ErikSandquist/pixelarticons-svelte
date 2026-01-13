@@ -1,1 +1,1 @@
-export { AlignRight as default } from "./";
+export { AlignRight as default } from './';

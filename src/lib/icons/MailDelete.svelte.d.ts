@@ -1,1 +1,1 @@
-export { MailDelete as default } from "./";
+export { MailDelete as default } from './';

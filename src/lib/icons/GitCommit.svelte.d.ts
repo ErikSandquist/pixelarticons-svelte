@@ -1,1 +1,1 @@
-export { GitCommit as default } from "./";
+export { GitCommit as default } from './';

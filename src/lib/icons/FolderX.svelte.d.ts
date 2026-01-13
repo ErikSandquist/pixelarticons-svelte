@@ -1,1 +1,1 @@
-export { FolderX as default } from "./";
+export { FolderX as default } from './';

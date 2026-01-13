@@ -1,1 +1,1 @@
-export { CalendarSortDescending as default } from "./";
+export { CalendarSortDescending as default } from './';

@@ -1,1 +1,1 @@
-export { ContactMultiple as default } from "./";
+export { ContactMultiple as default } from './';

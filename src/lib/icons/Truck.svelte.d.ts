@@ -1,1 +1,1 @@
-export { Truck as default } from "./";
+export { Truck as default } from './';

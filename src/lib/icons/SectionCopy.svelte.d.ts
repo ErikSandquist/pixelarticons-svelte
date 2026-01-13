@@ -1,1 +1,1 @@
-export { SectionCopy as default } from "./";
+export { SectionCopy as default } from './';

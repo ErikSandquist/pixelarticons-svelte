@@ -1,1 +1,1 @@
-export { Forwardburger as default } from "./";
+export { Forwardburger as default } from './';

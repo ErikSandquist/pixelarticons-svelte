@@ -1,1 +1,1 @@
-export { Cake as default } from "./";
+export { Cake as default } from './';

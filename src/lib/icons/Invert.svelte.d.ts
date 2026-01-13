@@ -1,1 +1,1 @@
-export { Invert as default } from "./";
+export { Invert as default } from './';

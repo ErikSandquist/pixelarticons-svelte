@@ -1,1 +1,1 @@
-export { Subscriptions as default } from "./";
+export { Subscriptions as default } from './';

@@ -1,1 +1,1 @@
-export { SectionMinus as default } from "./";
+export { SectionMinus as default } from './';

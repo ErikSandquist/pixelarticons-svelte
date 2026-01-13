@@ -1,1 +1,1 @@
-export { LockOpen as default } from "./";
+export { LockOpen as default } from './';

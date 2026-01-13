@@ -1,1 +1,1 @@
-export { FillHalf as default } from "./";
+export { FillHalf as default } from './';

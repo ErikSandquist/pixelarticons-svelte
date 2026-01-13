@@ -1,1 +1,1 @@
-export { BookOpen as default } from "./";
+export { BookOpen as default } from './';

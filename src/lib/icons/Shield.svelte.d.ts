@@ -1,1 +1,1 @@
-export { Shield as default } from "./";
+export { Shield as default } from './';

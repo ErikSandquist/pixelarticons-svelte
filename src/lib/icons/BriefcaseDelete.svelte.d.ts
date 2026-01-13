@@ -1,1 +1,1 @@
-export { BriefcaseDelete as default } from "./";
+export { BriefcaseDelete as default } from './';

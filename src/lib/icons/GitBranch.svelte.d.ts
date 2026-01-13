@@ -1,1 +1,1 @@
-export { GitBranch as default } from "./";
+export { GitBranch as default } from './';

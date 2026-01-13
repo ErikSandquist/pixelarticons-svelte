@@ -1,1 +1,1 @@
-export { EyeClosed as default } from "./";
+export { EyeClosed as default } from './';

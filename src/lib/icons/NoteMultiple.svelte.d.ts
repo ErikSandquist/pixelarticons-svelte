@@ -1,1 +1,1 @@
-export { NoteMultiple as default } from "./";
+export { NoteMultiple as default } from './';

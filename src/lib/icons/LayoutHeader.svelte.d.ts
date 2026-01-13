@@ -1,1 +1,1 @@
-export { LayoutHeader as default } from "./";
+export { LayoutHeader as default } from './';

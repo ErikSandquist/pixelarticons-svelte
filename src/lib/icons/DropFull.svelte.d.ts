@@ -1,1 +1,1 @@
-export { DropFull as default } from "./";
+export { DropFull as default } from './';

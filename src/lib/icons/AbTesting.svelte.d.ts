@@ -1,1 +1,1 @@
-export { AbTesting as default } from "./";
+export { AbTesting as default } from './';

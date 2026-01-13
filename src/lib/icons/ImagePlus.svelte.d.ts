@@ -1,1 +1,1 @@
-export { ImagePlus as default } from "./";
+export { ImagePlus as default } from './';

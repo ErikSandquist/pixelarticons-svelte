@@ -1,1 +1,1 @@
-export { TextColums as default } from "./";
+export { TextColums as default } from './';

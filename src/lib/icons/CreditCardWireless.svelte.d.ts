@@ -1,1 +1,1 @@
-export { CreditCardWireless as default } from "./";
+export { CreditCardWireless as default } from './';

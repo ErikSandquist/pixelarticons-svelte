@@ -1,1 +1,1 @@
-export { ChartMinus as default } from "./";
+export { ChartMinus as default } from './';

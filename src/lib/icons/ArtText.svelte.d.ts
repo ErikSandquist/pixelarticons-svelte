@@ -1,1 +1,1 @@
-export { ArtText as default } from "./";
+export { ArtText as default } from './';

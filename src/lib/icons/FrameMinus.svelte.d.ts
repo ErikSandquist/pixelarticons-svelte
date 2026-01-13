@@ -1,1 +1,1 @@
-export { FrameMinus as default } from "./";
+export { FrameMinus as default } from './';

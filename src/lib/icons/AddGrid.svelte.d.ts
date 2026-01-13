@@ -1,1 +1,1 @@
-export { AddGrid as default } from "./";
+export { AddGrid as default } from './';

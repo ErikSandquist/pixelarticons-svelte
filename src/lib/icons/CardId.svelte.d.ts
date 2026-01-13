@@ -1,1 +1,1 @@
-export { CardId as default } from "./";
+export { CardId as default } from './';

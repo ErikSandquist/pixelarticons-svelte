@@ -1,1 +1,1 @@
-export { FloatRight as default } from "./";
+export { FloatRight as default } from './';

@@ -1,1 +1,1 @@
-export { FileDelete as default } from "./";
+export { FileDelete as default } from './';

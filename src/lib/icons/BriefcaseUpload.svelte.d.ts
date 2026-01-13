@@ -1,1 +1,1 @@
-export { BriefcaseUpload as default } from "./";
+export { BriefcaseUpload as default } from './';

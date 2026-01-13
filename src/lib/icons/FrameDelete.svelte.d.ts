@@ -1,1 +1,1 @@
-export { FrameDelete as default } from "./";
+export { FrameDelete as default } from './';

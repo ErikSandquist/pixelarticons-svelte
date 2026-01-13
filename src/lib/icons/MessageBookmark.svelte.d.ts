@@ -1,1 +1,1 @@
-export { MessageBookmark as default } from "./";
+export { MessageBookmark as default } from './';

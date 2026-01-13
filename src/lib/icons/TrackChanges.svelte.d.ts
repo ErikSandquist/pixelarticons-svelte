@@ -1,1 +1,1 @@
-export { TrackChanges as default } from "./";
+export { TrackChanges as default } from './';

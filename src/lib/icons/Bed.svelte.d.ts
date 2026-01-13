@@ -1,1 +1,1 @@
-export { Bed as default } from "./";
+export { Bed as default } from './';

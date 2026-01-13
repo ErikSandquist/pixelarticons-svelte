@@ -1,1 +1,1 @@
-export { RemoveBox as default } from "./";
+export { RemoveBox as default } from './';

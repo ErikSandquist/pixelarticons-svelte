@@ -1,1 +1,1 @@
-export { Speaker as default } from "./";
+export { Speaker as default } from './';

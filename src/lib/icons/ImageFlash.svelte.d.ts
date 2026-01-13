@@ -1,1 +1,1 @@
-export { ImageFlash as default } from "./";
+export { ImageFlash as default } from './';

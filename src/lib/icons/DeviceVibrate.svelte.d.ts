@@ -1,1 +1,1 @@
-export { DeviceVibrate as default } from "./";
+export { DeviceVibrate as default } from './';

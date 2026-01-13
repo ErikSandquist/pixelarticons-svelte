@@ -1,1 +1,1 @@
-export { Expand as default } from "./";
+export { Expand as default } from './';

@@ -1,1 +1,1 @@
-export { DeviceTvSmart as default } from "./";
+export { DeviceTvSmart as default } from './';

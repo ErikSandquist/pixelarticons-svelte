@@ -1,1 +1,1 @@
-export { DevicePhone as default } from "./";
+export { DevicePhone as default } from './';

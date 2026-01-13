@@ -1,1 +1,1 @@
-export { DropHalf as default } from "./";
+export { DropHalf as default } from './';

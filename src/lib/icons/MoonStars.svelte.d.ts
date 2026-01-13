@@ -1,1 +1,1 @@
-export { MoonStars as default } from "./";
+export { MoonStars as default } from './';

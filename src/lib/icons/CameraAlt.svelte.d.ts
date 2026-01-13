@@ -1,1 +1,1 @@
-export { CameraAlt as default } from "./";
+export { CameraAlt as default } from './';

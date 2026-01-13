@@ -1,1 +1,1 @@
-export { Avatar as default } from "./";
+export { Avatar as default } from './';

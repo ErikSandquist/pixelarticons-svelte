@@ -1,1 +1,1 @@
-export { BriefcaseAccount as default } from "./";
+export { BriefcaseAccount as default } from './';

@@ -1,1 +1,1 @@
-export { ChevronsHorizontal as default } from "./";
+export { ChevronsHorizontal as default } from './';

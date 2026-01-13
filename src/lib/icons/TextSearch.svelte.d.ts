@@ -1,1 +1,1 @@
-export { TextSearch as default } from "./";
+export { TextSearch as default } from './';

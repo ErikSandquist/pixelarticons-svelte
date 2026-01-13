@@ -1,1 +1,1 @@
-export { Flatten as default } from "./";
+export { Flatten as default } from './';

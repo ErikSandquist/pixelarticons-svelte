@@ -6,7 +6,7 @@
 	const allIcons = Object.keys(icons).sort((a, b) => a.localeCompare(b));
 
 	let searchTerm = $state('');
-	let iconSize = $state(32);
+	let iconSize = $state(24);
 	let copiedIcon = $state<string | null>(null);
 
 	const filteredIcons = $derived.by(() => {
@@ -40,14 +40,14 @@
 
 	<header class="header">
 		<h1 class="title">
-			<Gamepad size={42} />
+			<Gamepad size={48} />
 			<span>Pixelarticons</span>
 		</h1>
 		<p class="subtitle">{allIcons.length} pixel-perfect icons for Svelte 5</p>
 
 		<nav class="nav">
 			<a href="https://github.com/halfmage/pixelarticons" target="_blank" class="nav-btn">
-				<BookOpen size={16} />
+				<BookOpen size={24} />
 				<span>Original</span>
 			</a>
 			<a
@@ -55,7 +55,7 @@
 				target="_blank"
 				class="nav-btn primary"
 			>
-				<Archive size={16} />
+				<Archive size={24} />
 				<span>Package</span>
 			</a>
 		</nav>
@@ -63,7 +63,7 @@
 
 	<section class="controls-section">
 		<div class="search-box">
-			<Search size={20} />
+			<Search size={24} />
 			<input
 				type="text"
 				bind:value={searchTerm}
@@ -113,7 +113,7 @@
 
 	{#if filteredIcons.length === 0}
 		<div class="no-results">
-			<MoodSad size={64} />
+			<MoodSad size={72} />
 			<h3>No icons found</h3>
 			<p>Try a different search term</p>
 		</div>

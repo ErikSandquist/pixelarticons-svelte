@@ -1,1 +1,1 @@
-export { Tournament as default } from "./";
+export { Tournament as default } from './';

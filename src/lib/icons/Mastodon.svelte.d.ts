@@ -1,1 +1,1 @@
-export { Mastodon as default } from "./";
+export { Mastodon as default } from './';

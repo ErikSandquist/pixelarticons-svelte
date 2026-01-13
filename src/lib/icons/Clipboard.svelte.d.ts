@@ -1,1 +1,1 @@
-export { Clipboard as default } from "./";
+export { Clipboard as default } from './';

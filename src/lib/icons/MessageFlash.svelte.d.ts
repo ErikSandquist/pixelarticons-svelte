@@ -1,1 +1,1 @@
-export { MessageFlash as default } from "./";
+export { MessageFlash as default } from './';

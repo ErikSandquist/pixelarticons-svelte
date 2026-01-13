@@ -1,1 +1,1 @@
-export { NotePlus as default } from "./";
+export { NotePlus as default } from './';

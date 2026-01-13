@@ -1,1 +1,1 @@
-export { Teach as default } from "./";
+export { Teach as default } from './';

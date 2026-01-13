@@ -1,1 +1,1 @@
-export { VolumeVibrate as default } from "./";
+export { VolumeVibrate as default } from './';

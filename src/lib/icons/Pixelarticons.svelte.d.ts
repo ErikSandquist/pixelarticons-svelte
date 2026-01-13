@@ -1,1 +1,1 @@
-export { Pixelarticons as default } from "./";
+export { Pixelarticons as default } from './';

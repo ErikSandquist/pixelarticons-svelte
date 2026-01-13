@@ -1,1 +1,1 @@
-export { MailMultiple as default } from "./";
+export { MailMultiple as default } from './';

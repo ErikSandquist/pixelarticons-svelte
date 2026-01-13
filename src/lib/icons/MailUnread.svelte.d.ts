@@ -1,1 +1,1 @@
-export { MailUnread as default } from "./";
+export { MailUnread as default } from './';

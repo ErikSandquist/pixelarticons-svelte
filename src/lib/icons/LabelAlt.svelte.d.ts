@@ -1,1 +1,1 @@
-export { LabelAlt as default } from "./";
+export { LabelAlt as default } from './';

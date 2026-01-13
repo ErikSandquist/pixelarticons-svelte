@@ -1,18 +1,18 @@
-import type { SvelteComponentTyped } from "svelte";
-import type { SVGAttributes } from "svelte/elements";
+import type { SvelteComponentTyped } from 'svelte';
+import type { SVGAttributes } from 'svelte/elements';
 
 interface IconProps extends SVGAttributes<SVGSVGElement> {
-  size?: number;
-  color?: string;
-  class?: string;
-  [key: `data-${string}`]: any;
+	size?: number;
+	color?: string;
+	class?: string;
+	[key: `data-${string}`]: any;
 }
 
 declare class SvgComponent extends SvelteComponentTyped<
-  IconProps,
-  Record<string, any>,
-  { default: {} }
-> { }
+	IconProps,
+	Record<string, any>,
+	{ default: {} }
+> {}
 
 export const Icon4g: typeof SvgComponent;
 export const Icon4k: typeof SvgComponent;

@@ -1,1 +1,1 @@
-export { MessageDelete as default } from "./";
+export { MessageDelete as default } from './';

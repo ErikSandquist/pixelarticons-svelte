@@ -1,1 +1,1 @@
-export { DebugStop as default } from "./";
+export { DebugStop as default } from './';

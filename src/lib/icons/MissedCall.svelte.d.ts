@@ -1,1 +1,1 @@
-export { MissedCall as default } from "./";
+export { MissedCall as default } from './';

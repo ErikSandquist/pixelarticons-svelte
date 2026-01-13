@@ -1,1 +1,1 @@
-export { ViewCol as default } from "./";
+export { ViewCol as default } from './';

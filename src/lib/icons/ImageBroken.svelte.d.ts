@@ -1,1 +1,1 @@
-export { ImageBroken as default } from "./";
+export { ImageBroken as default } from './';

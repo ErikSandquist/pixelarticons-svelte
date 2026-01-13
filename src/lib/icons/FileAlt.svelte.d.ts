@@ -1,1 +1,1 @@
-export { FileAlt as default } from "./";
+export { FileAlt as default } from './';

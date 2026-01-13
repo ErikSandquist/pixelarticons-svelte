@@ -1,1 +1,1 @@
-export { BuildingCommunity as default } from "./";
+export { BuildingCommunity as default } from './';

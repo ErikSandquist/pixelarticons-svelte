@@ -1,1 +1,1 @@
-export { ViewList as default } from "./";
+export { ViewList as default } from './';

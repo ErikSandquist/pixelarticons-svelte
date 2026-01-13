@@ -1,1 +1,1 @@
-export { FlipToBack as default } from "./";
+export { FlipToBack as default } from './';

@@ -1,1 +1,1 @@
-export { LabelSharp as default } from "./";
+export { LabelSharp as default } from './';

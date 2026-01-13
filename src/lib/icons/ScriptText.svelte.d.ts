@@ -1,1 +1,1 @@
-export { ScriptText as default } from "./";
+export { ScriptText as default } from './';

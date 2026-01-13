@@ -1,1 +1,1 @@
-export { ImageMultiple as default } from "./";
+export { ImageMultiple as default } from './';

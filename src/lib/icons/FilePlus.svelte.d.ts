@@ -1,1 +1,1 @@
-export { FilePlus as default } from "./";
+export { FilePlus as default } from './';

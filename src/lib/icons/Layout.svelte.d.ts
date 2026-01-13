@@ -1,1 +1,1 @@
-export { Layout as default } from "./";
+export { Layout as default } from './';

@@ -1,1 +1,1 @@
-export { RecieptAlt as default } from "./";
+export { RecieptAlt as default } from './';

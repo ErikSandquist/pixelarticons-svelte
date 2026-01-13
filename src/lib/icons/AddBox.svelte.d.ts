@@ -1,1 +1,1 @@
-export { AddBox as default } from "./";
+export { AddBox as default } from './';

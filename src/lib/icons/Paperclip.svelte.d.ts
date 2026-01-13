@@ -1,1 +1,1 @@
-export { Paperclip as default } from "./";
+export { Paperclip as default } from './';

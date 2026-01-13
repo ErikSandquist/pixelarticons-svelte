@@ -1,1 +1,1 @@
-export { CalendarSearch as default } from "./";
+export { CalendarSearch as default } from './';

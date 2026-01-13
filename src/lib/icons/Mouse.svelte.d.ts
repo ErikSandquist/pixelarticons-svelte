@@ -1,1 +1,1 @@
-export { Mouse as default } from "./";
+export { Mouse as default } from './';

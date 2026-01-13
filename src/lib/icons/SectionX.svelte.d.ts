@@ -1,1 +1,1 @@
-export { SectionX as default } from "./";
+export { SectionX as default } from './';

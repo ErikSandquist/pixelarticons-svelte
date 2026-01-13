@@ -1,1 +1,1 @@
-export { ContactPlus as default } from "./";
+export { ContactPlus as default } from './';

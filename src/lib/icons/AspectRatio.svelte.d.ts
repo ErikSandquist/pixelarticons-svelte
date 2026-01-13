@@ -1,1 +1,1 @@
-export { AspectRatio as default } from "./";
+export { AspectRatio as default } from './';

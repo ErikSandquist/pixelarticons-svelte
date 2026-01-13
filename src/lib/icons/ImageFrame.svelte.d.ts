@@ -1,1 +1,1 @@
-export { ImageFrame as default } from "./";
+export { ImageFrame as default } from './';

@@ -1,1 +1,1 @@
-export { Circle as default } from "./";
+export { Circle as default } from './';

@@ -1,1 +1,1 @@
-export { RadioHandheld as default } from "./";
+export { RadioHandheld as default } from './';

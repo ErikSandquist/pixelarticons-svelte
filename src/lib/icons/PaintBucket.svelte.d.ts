@@ -1,1 +1,1 @@
-export { PaintBucket as default } from "./";
+export { PaintBucket as default } from './';

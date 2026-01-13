@@ -1,1 +1,1 @@
-export { EditBox as default } from "./";
+export { EditBox as default } from './';

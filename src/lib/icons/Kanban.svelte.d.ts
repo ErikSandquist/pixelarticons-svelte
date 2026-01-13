@@ -1,1 +1,1 @@
-export { Kanban as default } from "./";
+export { Kanban as default } from './';

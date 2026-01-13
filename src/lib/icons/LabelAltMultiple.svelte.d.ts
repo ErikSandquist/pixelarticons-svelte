@@ -1,1 +1,1 @@
-export { LabelAltMultiple as default } from "./";
+export { LabelAltMultiple as default } from './';

@@ -1,1 +1,1 @@
-export { FolderPlus as default } from "./";
+export { FolderPlus as default } from './';

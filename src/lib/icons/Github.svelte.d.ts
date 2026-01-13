@@ -1,1 +1,1 @@
-export { Github as default } from "./";
+export { Github as default } from './';

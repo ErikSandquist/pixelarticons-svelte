@@ -1,1 +1,1 @@
-export { CellularSignalOff as default } from "./";
+export { CellularSignalOff as default } from './';

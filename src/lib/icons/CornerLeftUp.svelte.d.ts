@@ -1,1 +1,1 @@
-export { CornerLeftUp as default } from "./";
+export { CornerLeftUp as default } from './';

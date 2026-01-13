@@ -1,1 +1,1 @@
-export { Sort as default } from "./";
+export { Sort as default } from './';

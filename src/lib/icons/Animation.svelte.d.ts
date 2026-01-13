@@ -1,1 +1,1 @@
-export { Animation as default } from "./";
+export { Animation as default } from './';

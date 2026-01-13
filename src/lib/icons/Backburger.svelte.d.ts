@@ -1,1 +1,1 @@
-export { Backburger as default } from "./";
+export { Backburger as default } from './';

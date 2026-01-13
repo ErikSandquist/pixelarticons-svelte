@@ -1,1 +1,1 @@
-export { Euro as default } from "./";
+export { Euro as default } from './';

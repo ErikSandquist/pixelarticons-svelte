@@ -1,1 +1,1 @@
-export { RoundedCorner as default } from "./";
+export { RoundedCorner as default } from './';

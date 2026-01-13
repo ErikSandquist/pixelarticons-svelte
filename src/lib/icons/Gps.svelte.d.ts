@@ -1,1 +1,1 @@
-export { Gps as default } from "./";
+export { Gps as default } from './';

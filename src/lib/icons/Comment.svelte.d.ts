@@ -1,1 +1,1 @@
-export { Comment as default } from "./";
+export { Comment as default } from './';

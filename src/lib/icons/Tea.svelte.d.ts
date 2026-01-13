@@ -1,1 +1,1 @@
-export { Tea as default } from "./";
+export { Tea as default } from './';

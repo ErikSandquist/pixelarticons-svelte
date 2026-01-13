@@ -1,1 +1,1 @@
-export { Icon4kBox as default } from "./";
+export { Icon4kBox as default } from './';

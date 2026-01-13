@@ -1,1 +1,1 @@
-export { CardStack as default } from "./";
+export { CardStack as default } from './';

@@ -1,1 +1,1 @@
-export { Sync as default } from "./";
+export { Sync as default } from './';

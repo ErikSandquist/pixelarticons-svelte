@@ -1,1 +1,1 @@
-export { MailFlash as default } from "./";
+export { MailFlash as default } from './';

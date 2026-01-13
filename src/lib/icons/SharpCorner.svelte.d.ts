@@ -1,1 +1,1 @@
-export { SharpCorner as default } from "./";
+export { SharpCorner as default } from './';

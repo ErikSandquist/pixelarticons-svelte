@@ -1,1 +1,1 @@
-export { DeviceTablet as default } from "./";
+export { DeviceTablet as default } from './';

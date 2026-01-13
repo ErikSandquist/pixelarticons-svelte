@@ -1,1 +1,1 @@
-export { BuildingSkyscraper as default } from "./";
+export { BuildingSkyscraper as default } from './';

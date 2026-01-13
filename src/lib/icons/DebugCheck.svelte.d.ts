@@ -1,1 +1,1 @@
-export { DebugCheck as default } from "./";
+export { DebugCheck as default } from './';

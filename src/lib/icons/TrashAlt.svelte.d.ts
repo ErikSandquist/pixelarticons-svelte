@@ -1,1 +1,1 @@
-export { TrashAlt as default } from "./";
+export { TrashAlt as default } from './';

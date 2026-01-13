@@ -1,1 +1,1 @@
-export { Cast as default } from "./";
+export { Cast as default } from './';

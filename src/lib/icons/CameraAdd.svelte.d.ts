@@ -1,1 +1,1 @@
-export { CameraAdd as default } from "./";
+export { CameraAdd as default } from './';

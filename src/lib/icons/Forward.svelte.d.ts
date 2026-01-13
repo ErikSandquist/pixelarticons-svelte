@@ -1,1 +1,1 @@
-export { Forward as default } from "./";
+export { Forward as default } from './';

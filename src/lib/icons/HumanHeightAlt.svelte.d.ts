@@ -1,1 +1,1 @@
-export { HumanHeightAlt as default } from "./";
+export { HumanHeightAlt as default } from './';

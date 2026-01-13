@@ -1,1 +1,1 @@
-export { HumanHandsdown as default } from "./";
+export { HumanHandsdown as default } from './';

@@ -1,1 +1,1 @@
-export { ImageNew as default } from "./";
+export { ImageNew as default } from './';

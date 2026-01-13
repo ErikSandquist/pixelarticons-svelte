@@ -1,1 +1,1 @@
-export { Reciept as default } from "./";
+export { Reciept as default } from './';

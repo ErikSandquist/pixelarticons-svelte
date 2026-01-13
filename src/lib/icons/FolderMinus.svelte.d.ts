@@ -1,1 +1,1 @@
-export { FolderMinus as default } from "./";
+export { FolderMinus as default } from './';

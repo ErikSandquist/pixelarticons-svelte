@@ -1,1 +1,1 @@
-export { AddBoxMultiple as default } from "./";
+export { AddBoxMultiple as default } from './';

@@ -1,1 +1,1 @@
-export { AddCol as default } from "./";
+export { AddCol as default } from './';

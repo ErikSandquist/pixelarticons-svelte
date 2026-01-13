@@ -1,1 +1,1 @@
-export { FileMultiple as default } from "./";
+export { FileMultiple as default } from './';
