@@ -1,6 +1,6 @@
 {
 	"name": "pixelarticons-svelte",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "486 pixel-perfect icons as Svelte 5 components",
 	"author": "Erik Sandquist",
 	"license": "MIT",
