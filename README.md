@@ -2,6 +2,10 @@
 
 Pixel-perfect icons as Svelte 5 components. Based on [pixelarticons](https://github.com/halfmage/pixelarticons).
 
+## View the icons
+
+https://pixelarticons-svelte.vercel.app/
+
 ## Installation
 
 ```bash
