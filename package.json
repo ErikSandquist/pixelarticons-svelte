@@ -8,7 +8,7 @@
 		"type": "git",
 		"url": "https://github.com/eriksandquist/pixelarticons-svelte.git"
 	},
-	"homepage": "https://github.com/eriksandquist/pixelarticons-svelte",
+	"homepage": "https://pixelarticons-svelte.vercel.app/",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run prepack",
